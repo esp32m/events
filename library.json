@@ -1,0 +1,19 @@
+{
+  "name":"ESP32 events",
+  "description":"ESP32 event manager",
+  "keywords":"esp32,event manager,events",
+  "authors":
+  {
+    "name": "Denys Yarkovyi",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/esp32m/events.git"
+  },
+  "version": "1.0.0",
+  "license": "LGPL-3.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif32"]
+}
